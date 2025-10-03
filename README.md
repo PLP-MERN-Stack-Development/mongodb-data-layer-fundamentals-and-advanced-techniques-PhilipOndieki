@@ -322,6 +322,7 @@ You need to include the following screenshots in your submission:
 
 #### Screenshot 1: MongoDB Compass - Collection View
 **Location:** `screenshots/compass_collection_view.png`
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4d6988e2-3d48-46cc-84d1-789e4fe03c58" />
 
 **What to capture:**
 - MongoDB Compass showing your `plp_bookstore` database
@@ -339,6 +340,8 @@ You need to include the following screenshots in your submission:
 
 #### Screenshot 2: MongoDB Compass - Indexes View
 **Location:** `screenshots/compass_indexes_view.png`
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/253807b5-f925-4f31-a528-5486d218c34d" />
+
 
 **What to capture:**
 - The "Indexes" tab in MongoDB Compass
@@ -355,6 +358,7 @@ You need to include the following screenshots in your submission:
 
 #### Screenshot 3: Query Results (Optional but Recommended)
 **Location:** `screenshots/query_results.png`
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/177f255a-743d-4f77-a8fc-ff5ba3b1dea4" />
 
 **What to capture:**
 - Terminal output showing successful execution of `node queries.js`
