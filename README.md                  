@@ -591,8 +591,8 @@ Your repository should look like this:
 mongodb-bookstore-assignment/
 ├── insert_books.js                    # Script to populate database
 ├── queries.js                         # All MongoDB queries
-├── README.md                          # Project documentation
-├── HOW_TO_RUN.md                     # This file
+├── README2.md                          # Project documentation
+├── README.md                           # This file
 ├── package.json                       # Node.js dependencies
 ├── package-lock.json                  # Dependency lock file
 ├── node_modules/                      # Dependencies (not committed)
