@@ -144,8 +144,8 @@ async function insertBooks() {
     console.log('Connected to MongoDB server');
 
     // Get database and collection
-    const db = client.db(dbName);
-    const collection = db.collection(collectionName);
+    const db = client.db(dbName); // dbName = plp_bookstore
+    const collection = db.collection(collectionName); // collectionName = books
 
     // Check if collection already has documents
     const count = await collection.countDocuments();
