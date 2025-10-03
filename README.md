@@ -1,6 +1,6 @@
 # 🚀 How to Run the MongoDB Bookstore Project
 
-**Student:** Philip Ondieki
+**Student:** Philip Ondieki 
 **Course:** PLP Software Development  
 **Assignment:** Week 1 - MongoDB Fundamentals  
 **Date:** October 2025
@@ -354,7 +354,7 @@ You need to include the following screenshots in your submission:
 4. Save as `screenshots/compass_indexes_view.png`
 
 #### Screenshot 3: Query Results (Optional but Recommended)
-**Location:** `screenshots/query_results.png`,  `screenshots/query_results2.png`
+**Location:** `screenshots/query_results.png`
 
 **What to capture:**
 - Terminal output showing successful execution of `node queries.js`
@@ -718,33 +718,6 @@ git push origin main
 
 ---
 
-## 🏆 Assignment Grading Criteria
-
-Your assignment will be graded on:
-
-1. **Functionality (40%)**
-   - Scripts run without errors
-   - Database created correctly
-   - All queries execute successfully
-
-2. **Completeness (30%)**
-   - All tasks completed
-   - All required files present
-   - Screenshots included
-
-3. **Code Quality (20%)**
-   - Clean, readable code
-   - Proper error handling
-   - Good documentation
-
-4. **Following Instructions (10%)**
-   - Books are from 1920 onwards
-   - Correct file names
-   - Proper repository structure
-
-
-
----
 
 **Last Updated:** October 2025  
 **Course:** PLP Software Development - Week 1  
